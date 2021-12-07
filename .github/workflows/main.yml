@@ -17,7 +17,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: icy-blue
           config_timezone: Asia/Shanghai
-          config_order: base.header, isocalendar, base.repositories, followup, pagespeed
+          config_order: base.header, isocalendar, base.repositories, followup
           config_padding: 10%
           use_prebuilt_image: master
           base: "header, repositories"
@@ -28,10 +28,6 @@ jobs:
 
           plugin_followup: yes
 
-          plugin_pagespeed: yes
-          plugin_pagespeed_detailed: yes
-          plugin_pagespeed_screenshot: yes
-          plugin_pagespeed_url: https://icys.top
 
       - name: Personal metrics (additional)
         uses: lowlighter/metrics@master
