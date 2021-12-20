@@ -1,60 +1,52 @@
-name: GitHub metrics
+# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
+name: Metrics
 on:
-  schedule:
-    - cron: "0 * * * *"
-  push:
-    branches: "main"
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
+  push: {branches: ["master", "main"]}
 jobs:
-  github-metrics-personal:
+  github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Personal metrics
-        uses: lowlighter/metrics@master
+      - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.svg
+          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Options
           user: icy-blue
+          template: classic
+          base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
-          config_order: base.header, isocalendar, base.repositories, followup
-          config_padding: 10%
-          use_prebuilt_image: master
-          base: "header, repositories"
-          plugin_isocalendar: yes
-          #          plugin_isocalendar_duration: full-year
-          plugin_lines: yes
-          plugin_traffic: yes
-
-          plugin_followup: yes
-
-
-      - name: Personal metrics (additional)
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.additional.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          user: icy-blue
-          config_timezone: Asia/Shanghai
-          config_order: habits, stargazers, languages, stargazers, topics, people
-          config_padding: 10%
-          use_prebuilt_image: master
-          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_threshold: C
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_load: 300
+          plugin_activity_visibility: public
           plugin_habits: yes
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
           plugin_habits_from: 200
-          plugin_habits_facts: no
-          plugin_habits_charts: yes
-          plugin_stargazers: yes
-
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
           plugin_languages: yes
-          plugin_languages_ignored: html, css, tex, less, makefile, qmake, lex, cmake, gnuplot
-          plugin_languages_skipped: lowlighter
-
-          plugin_topics: yes
-          plugin_topics_mode: mastered
-
-          plugin_people: yes
-          plugin_people_types: followers, following
-          plugin_people_limit: 28
-          plugin_people_size: 28
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          plugin_lines: yes
+          plugin_projects: yes
+          plugin_projects_limit: 4
+          plugin_stargazers: yes
+          plugin_traffic: yes
