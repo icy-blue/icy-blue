@@ -52,4 +52,3 @@ jobs:
           plugin_people_limit: 100
           plugin_followup: yes
           plugin_followup_sections: repositories
-          plugin_support: yes
