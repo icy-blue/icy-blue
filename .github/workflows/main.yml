@@ -46,7 +46,10 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_lines: yes
-          plugin_projects: yes
-          plugin_projects_limit: 4
-          plugin_stargazers: yes
-          plugin_traffic: yes
+          plugin_stars: yes
+          plugin_stars_limit: 4
+          plugin_people: yes
+          plugin_people_limit: 100
+          plugin_followup: yes
+          plugin_followup_sections: repositories
+          plugin_support: yes
