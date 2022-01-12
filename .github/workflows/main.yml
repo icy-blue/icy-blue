@@ -10,7 +10,12 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      # 设置服务器时区为东八区 
+      - name: Set time zone
+        run: sudo timedatectl set-timezone 'Asia/Shanghai'
+        
+      - name: metrics
+        uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
