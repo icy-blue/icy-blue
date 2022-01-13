@@ -1477,7 +1477,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lint-md/lint-md</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2232,7 +2232,7 @@
                 </section>
                 <footer>
                     <span>These metrics do not include all private contributions</span>
-                    <span>Last updated 13 Jan 2022, 11:10:10 (timezone Asia/Shanghai) with lowlighter/metrics@3.17.0</span>
+                    <span>Last updated 13 Jan 2022, 12:08:55 (timezone Asia/Shanghai) with lowlighter/metrics@3.17.0</span>
                 </footer>
             </section>
             <div id="metrics-end"></div>
