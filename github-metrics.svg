@@ -1466,7 +1466,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Textualize/rich</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rich is a Python library for rich text and beautiful formatting in the terminal.</div>
@@ -2296,7 +2296,7 @@
                 </section>
                 <footer>
                     <span>These metrics do not include all private contributions</span>
-                    <span>Last updated 19 Jan 2022, 08:23:41 (timezone Asia/Shanghai) with lowlighter/metrics@3.17.0</span>
+                    <span>Last updated 19 Jan 2022, 09:47:12 (timezone Asia/Shanghai) with lowlighter/metrics@3.17.0</span>
                 </footer>
             </section>
             <div id="metrics-end"></div>
