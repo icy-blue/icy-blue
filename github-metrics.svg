@@ -1468,7 +1468,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jayphelps/git-blame-someone-else</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Blame someone else for your bad code.</div>
@@ -1521,7 +1521,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>caiyongji/emoji-list</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">emoji list; emoji表情列表</div>
@@ -2284,7 +2284,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Jan 2022, 21:12:32 (timezone Asia/Shanghai) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 26 Jan 2022, 22:19:34 (timezone Asia/Shanghai) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
