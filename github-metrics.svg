@@ -1463,7 +1463,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rstacruz/cheatsheets</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">My cheatsheets</div>
@@ -1516,7 +1516,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kvrmnks/simple_reminder</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">使用遗忘曲线帮助记忆</div>
@@ -2052,7 +2052,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 981k out of 86m users</span>
+                                    <span class="gh">ranked 982k out of 86m users</span>
                                 </div>
                                 <div class="text">Published 31 public repositories</div>
                             </div>
@@ -2256,7 +2256,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Mar 2022, 21:15:17 (timezone Asia/Shanghai) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 8 Mar 2022, 22:07:54 (timezone Asia/Shanghai) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
