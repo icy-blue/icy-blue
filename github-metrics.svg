@@ -1443,7 +1443,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>twbs/bootstrap</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.</div>
@@ -2220,7 +2220,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Mar 2022, 02:08:46 (timezone Asia/Shanghai) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 28 Mar 2022, 03:06:37 (timezone Asia/Shanghai) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
