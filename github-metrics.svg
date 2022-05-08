@@ -1504,7 +1504,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bubbliiiing/deeplabv3-plus-pytorch</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">这是一个deeplabv3-plus-pytorch的源码，可以用于训练自己的模型。</div>
@@ -1557,7 +1557,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/yapf</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A formatter for Python files</div>
@@ -2271,7 +2271,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 May 2022, 19:07:01 (timezone Asia/Shanghai) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 8 May 2022, 20:13:19 (timezone Asia/Shanghai) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
