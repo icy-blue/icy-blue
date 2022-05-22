@@ -1445,7 +1445,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GraiaProject/Ariadne</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">一个优雅且完备的 Python QQ 自动化框架。基于 Mirai API HTTP v2。 Powered by Graia Project。</div>
@@ -1498,7 +1498,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>monperrus/bibtexbrowser</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Beautiful publication lists with bibtex and PHP (standalone or in Wordpress)</div>
@@ -2250,7 +2250,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 May 2022, 16:09:50 (timezone Asia/Shanghai) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 22 May 2022, 17:08:10 (timezone Asia/Shanghai) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
