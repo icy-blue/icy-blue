@@ -1471,7 +1471,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WeNeedHome/SummaryOfLoanSuspension</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">全国各省市停贷通知汇总</div>
@@ -2259,7 +2259,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Jul 2022, 04:10:17 (timezone Asia/Shanghai) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 15 Jul 2022, 05:08:59 (timezone Asia/Shanghai) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
