@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2639" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2656" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            766 Commits
+                            769 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -327,14 +327,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="247.89665326761695" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="247.89665326761695" y="0" width="114.73346810635614" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="362.6301213739731" y="0" width="48.763835021783684" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="411.3939563957568" y="0" width="23.711020454891646" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="435.1049768506484" y="0" width="7.865606305482254" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="442.97058315613066" y="0" width="6.545582478120644" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="449.51616563425125" y="0" width="5.6276802163972075" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="455.14384585064846" y="0" width="4.8561541493515055" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="246.21710208134627" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="246.21710208134627" y="0" width="117.07272039386285" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="363.28982247520906" y="0" width="48.43344993639277" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="411.7232724116019" y="0" width="23.550373378750162" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="435.273645790352" y="0" width="7.812315193129684" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="443.08596098348175" y="0" width="6.501234800687129" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="449.58719578416884" y="0" width="5.589551516962134" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="455.176747301131" y="0" width="4.823252698869028" height="8" fill="#a91e50"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -393,7 +393,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 19 commits)</small>
+                    <small class="h-details">(computed from last 25 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -1772,14 +1772,42 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 2 commits in
+                                        <span class="repo">icy-blue/icy-blue.github.io</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">hexo</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#dffb36e</div>
+                                        <div class="message">Site updated: 2022-07-30 00:46:56</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0b7dba1</div>
+                                        <div class="message">First commit</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
                                         <span class="repo">icy-blue/icy-blog</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c484354</div>
+                                        <div class="sha">#821be9f</div>
+                                        <div class="message">Add 0730.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f54f7dc</div>
                                         <div class="message">Add 0730.</div>
                                     </div>
                                 </div>
@@ -1799,11 +1827,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">hexo</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3d90c84</div>
-                                        <div class="message">Site updated: 2022-07-28 13:28:13</div>
+                                        <div class="sha">#c76735d</div>
+                                        <div class="message">Site updated: 2022-07-30 00:39:28</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#eba1070</div>
+                                        <div class="sha">#07cdc55</div>
                                         <div class="message">First commit</div>
                                     </div>
                                 </div>
@@ -1823,8 +1851,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#84c2f28</div>
-                                        <div class="message">Test image.</div>
+                                        <div class="sha">#510a442</div>
+                                        <div class="message">Add 0730.</div>
                                     </div>
                                 </div>
                             </section>
@@ -1843,35 +1871,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">hexo</span></div>
                                     <div class="commit">
-                                        <div class="sha">#90ec2a5</div>
-                                        <div class="message">Site updated: 2022-07-28 10:02:35</div>
+                                        <div class="sha">#e14aedc</div>
+                                        <div class="message">Site updated: 2022-07-30 00:26:17</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#3e09a66</div>
-                                        <div class="message">First commit</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">icy-blue/icy-blue.github.io</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">hexo</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#82c7828</div>
-                                        <div class="message">Site updated: 2022-07-28 10:00:05</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#181b531</div>
+                                        <div class="sha">#4597a28</div>
                                         <div class="message">First commit</div>
                                     </div>
                                 </div>
@@ -2079,7 +2083,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.5166666666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.5833333333333335 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2101,7 +2105,7 @@
                                     <span class="prefix">Great</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 201 times</div>
+                                <div class="text">Repositories have been deployed 205 times</div>
                             </div>
                         </div>
                         <div class="achievement secret largeable-width-half">
@@ -2303,7 +2307,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Jul 2022, 00:10:57 (timezone Asia/Shanghai) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 30 Jul 2022, 01:13:56 (timezone Asia/Shanghai) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
