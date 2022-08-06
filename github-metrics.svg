@@ -1438,7 +1438,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>github/dmca</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at</div>
@@ -1479,7 +1479,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>github/gov-takedowns</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Text of government takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices.</div>
@@ -2268,7 +2268,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Aug 2022, 05:07:29 (timezone Asia/Shanghai) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 7 Aug 2022, 06:07:44 (timezone Asia/Shanghai) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
