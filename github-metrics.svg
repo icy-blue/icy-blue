@@ -1532,7 +1532,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WeNeedHome/SummaryOfLoanSuspension</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">全国各省市停贷通知汇总</div>
@@ -1579,7 +1579,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mcanet/STL-Volume-Model-Calculator</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">STL Volume Model Calculator Python</div>
@@ -1980,7 +1980,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.06091718001369 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.1033538672142371 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2041,7 +2041,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 852k out of 95m users</span>
+                                    <span class="gh">ranked 853k out of 95m users</span>
                                 </div>
                                 <div class="text">Published 36 public repositories</div>
                             </div>
@@ -2280,7 +2280,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Aug 2022, 22:10:17 (timezone Asia/Shanghai) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 8 Aug 2022, 23:09:23 (timezone Asia/Shanghai) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
