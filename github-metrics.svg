@@ -1460,7 +1460,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>react-hook-form/react-hook-form</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📋 React Hooks for form state management and validation (Web + React Native)</div>
@@ -1513,7 +1513,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dohomi/react-hook-form-mui</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Material-UI form components ready to use with react-hook-form</div>
@@ -2345,7 +2345,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 Aug 2022, 20:18:23 (timezone Asia/Shanghai) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 31 Aug 2022, 21:33:55 (timezone Asia/Shanghai) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
