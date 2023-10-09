@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 80 users
+                            Followed by 81 users
                         </div>
                     </section>
                     <section>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    382k added, 111k removed
+                                    157k added, 34.6k removed
                                 </div>
                             </section>
                             <section>
@@ -1535,7 +1535,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zh-lx/pinyin-pro</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">中文转拼音、拼音音调、拼音声母、拼音韵母、多音字拼音、姓氏拼音、拼音匹配</div>
@@ -1641,10 +1641,11 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    80 followers
+                    81 followers
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAYDBQIHCP/EAC0QAAIBAwIEBQIHAAAAAAAAAAECAwQFEQAhBhJBYRMiMVFxscEHMzRScoGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EABsRAQADAAMBAAAAAAAAAAAAAAEAAhEDEyEx/9oADAMBAAIRAxEAPwDqd2CqWY4A66Q+L7RU8TSpHLeK+226NsGGiYI8vdyQdu3fTBQ1FVU0zieBFjUYBU5ztt8jVbSLPLXytI5SAquIsb59Dv8A19dSs6kepDqVI6NIo4CRygIJOp+dXsEyyRhs4z00px26ngcQ0qpHTmQFgpPr7/O301LVVFXSztEnjDHqUUkE++iOQpsvZ1RIzNkKT+7v299aam/F6Cr4ge0WG3Sz1TztTSSzY5GVDjMeDjJyTkkADff0L3fIHutuFPUVVSkcrJBKYpOUujNysO2R1GD30JbuFbHYltotdspoTAT4bcvM65Jz5j5ug69BpL2R8luLqKWeQVPkKsKyT0VPSzUL0fhBIjCrNgAbgJIAM9MkbfdmqKOQsvhVbRjl3DEkk++o4fz4j1Vhj/MawvX6pf4fc6rXwmezrP/Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHAgj/xAAtEAACAQMDAgQEBwAAAAAAAAABAwIEBREABiESURMiMUEUFSOBMkJSYXGhsv/EABcBAAMBAAAAAAAAAAAAAAAAAAEDBAb/xAAgEQACAgEEAwEAAAAAAAAAAAABAgADBBETMVEFEiFh/9oADAMBAAIRAxEAPwB9mcnStfN/WaxXpluubGqYtUWBgiZgk+3H7YP301/l6tR+s2JeN8bquFyz8us7HARe8YLYxGAYRPqOM54GsPgUpYx3OJpbrCg+Sn2C+U24LTCvoxMU7JyhHqHJwSM/1ohh83qNCWrbydp7YC0VhrFLLGylx15JyfTj31lFaGoW6ET0siJj7jQyENb6JxGUkMIdUhz6GoSqYU+a5QWwjPSSODqd7Svt5v8AZKmdzvsKpCl9JV4UFzVg4yZ9gO/cHVHx9M/wdcfzZOEnwhOUYk+YA/i599XeOpFisD+RGQ+24YS9r3YyW36210qx8OyoJjVRd1+KsADjtyNYpd0zpqdSfAjMQiADnHGNKe2IiW2KMn9J/wBnVB21ZKKqtK3PWZMkSSSdT3IDYV6hRzp79z//2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABAcCBQYBA//EACwQAAEDAwMCBQMFAAAAAAAAAAECAwQABRESITEGURNBYYHwMpGhByJxktH/xAAYAQADAQEAAAAAAAAAAAAAAAAEBQYCB//EACERAAICAQQCAwAAAAAAAAAAAAECABEDBRQhMQQSIkFh/9oADAMBAAIRAxEAPwBetlvUnxl+G3kalYzpHmcDc05rZ1jYJ/U1jtlqUtmJEQ4lrUjAU4U6UgemCr3IpSWSPClXSOxdJJjQVqIddHKRgn27fnii47XT9m6oW+lU+fCYKVMLaWg74zv33J3Bxtx51NMilLM6zreLcOEAJIBPH7xG10tfr/Lv8mLfrYiNESlRS4lJAQRjABJwoY7VY3eB0/cpQfnNJceCQnUUE7b/AO1hZn6mWtSMtQ561nlKmcduCTj4axV1v9xmTVvRZcmGyeGjIUcf1wPnNAbdyb6iHHpmXyntE9BX1KlzRoc8VSgnST9OrJ+/Hc74HevCTKMeO2EM6zqOVp807YH4P39KLltJS6tvGUjjNChtKD+0eRpirUKMs8qF3tTRkGZZcG6DjPIyPb5mikuJKchWx9K4d0H+DUAvb6U1kkN1CMaug+Ruf//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABQECAwYHBP/EACoQAAICAQMDAgUFAAAAAAAAAAEDAgQRAAUSEzFBBiEjUWFxgSJSoaLB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgMBBf/EAB4RAAICAQUBAAAAAAAAAAAAAAECABEDBAUSMVEh/9oADAMBAAIRAxEAPwDLIsc5xOTNkj7nydHLm0uTSpsI4MkJBn3Bxof6eTJu80IE9MNaMSIz5760OhULw9d5NgTMpEGTucMdhgeD31ZyQLHQm40B+GVqntL3Ua9hfxGrZMYPYgDIH8EfnT6nrndNuixNbEFGZmIDtHPjR6O3GrbVFi+rTCTAy6hhNciSeY+o1QrNK0+UbK68ulY5MXj5ciP8OpuUIvLRv2Jl49SWtXs19ppboD8Ou0TEfIGe/wBsga0uDOqkMQwQM/cHGcjQEQi6tOvOIKjDhj6adRZJPpqLFnE1VhxPy/Ro5hdR6dzZnbuW5FdFfTMLDbLOkqQGACfP4wdCYwnVjFCweCxxHvqXaAG09qkwCUooLgT+7A9/7HSbk+cLUoxOBjXO3HDaqPIXY5RyM//Z" width="28" height="28" alt="" />
@@ -2259,7 +2260,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Oct 2023, 10:15:40 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Oct 2023, 11:08:05 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
