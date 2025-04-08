@@ -15,7 +15,7 @@ jobs:
         run: sudo timedatectl set-timezone 'Asia/Shanghai'
         
       - name: metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
@@ -32,10 +32,9 @@ jobs:
           plugin_achievements_limit: 0          # Display all unlocked achievements (no limit)
           plugin_activity: yes
           plugin_activity_days: 14
-          plugin_activity_filter: all
+          plugin_activity_filter: issue,pr,ref/create,release,review,wiki,fork
           plugin_activity_limit: 5
           plugin_activity_load: 300
-          # plugin_activity_visibility: public
           plugin_followup: yes
           plugin_followup_sections: repositories
           plugin_habits: yes
