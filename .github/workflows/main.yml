@@ -15,7 +15,7 @@ jobs:
         run: sudo timedatectl set-timezone 'Asia/Shanghai'
         
       - name: metrics
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
