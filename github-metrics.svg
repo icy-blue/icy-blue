@@ -1414,6 +1414,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1435,7 +1440,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fwilliams/surface-reconstruction-benchmark</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A working copy of the code from "A Benchmark for Surface Reconstruction" by Berger et. Al</div>
@@ -1488,7 +1493,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SandAI-org/MAGI-1</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Dec 25 2025</span>
                                     </div>
                                 </div>
                                 <div class="field description">MAGI-1: Autoregressive Video Generation at Scale</div>
@@ -1825,7 +1830,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jan 2026, 12:26:12 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Jan 2026, 12:43:24 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
